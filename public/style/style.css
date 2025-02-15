@@ -1,0 +1,62 @@
+/* Global Styles */
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    margin-top: 30px;
+    font-size: 2.5rem;
+    text-align: center;
+    color: #333;
+}
+
+/* Post Preview Card */
+.post-preview {
+    background: #fff;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.post-preview h3 {
+    font-size: 1.75rem;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.post-preview p {
+    color: #555;
+    font-size: 1rem;
+}
+
+.post-preview a {
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+}
+
+.post-preview a:hover {
+    color: #0056b3;
+}
+
+.read-more {
+    color: #28a745;
+    font-weight: bold;
+}
+
+.read-more:hover {
+    color: #218838;
+}
+
+/* Header */
+header {
+    background-color: #007bff;
+    padding: 20px;
+    color: #fff;
+    text-align: center;
+    font-size: 1.5rem;
+}
